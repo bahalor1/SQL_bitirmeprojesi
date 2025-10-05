@@ -60,10 +60,12 @@ Ek olarak:
 
 ## Karşılaşılan Sorunlar ve Çözümler
 - **Trigger Hatası:** Başta stok azaltma işleminde “inserted” tablosuna erişilemedi.  
-  → `AFTER INSERT` kullanılarak düzeltildi.   
+  → `AFTER INSERT` kullanılarak düzeltildi.  
+
 - **Veri Tutarlılığı:** Rastgele eklenen veriler stokta dengesizlik yarattı.  
-  → `UPDATE` sorguları ile stok güncellendi.
-- **Sipariş scripti:** Stoktaki ürünler ile müşterinin satın aldığı ürün arasındaki bağlantı zorluk çıkardı.
+  → `UPDATE` sorguları ile stok güncellendi.  
+
+- **Sipariş scripti:** Stoktaki ürünler ile müşterinin satın aldığı ürün arasındaki bağlantı zorluk çıkardı.  
   → Stok sayısı ve müşterinin kategorilerden ve ürünlerden yaptığı alışveriş dikkatlice dengelendi.
 
 ---
@@ -91,6 +93,7 @@ Sistem, SQL üzerinde tam fonksiyonel çalışmakta ve tüm CRUD işlemlerini de
 ## Geliştirici
 **Ad Soyad:** Baha Lor
 **Proje:** Bitirme Projesi – SQL E-Ticaret Veritabanı  
+
 
 
 
