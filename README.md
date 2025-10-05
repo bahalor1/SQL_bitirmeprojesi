@@ -34,6 +34,11 @@ Ek olarak:
 
 ---
 
+## 📊 ER Diyagramı Görseli
+![ER Diagram](Bitirmeprojesi_Diagram.png)
+
+---
+
 ## Veri Sorgulama ve Raporlama
 
 **Temel Sorgular:**
@@ -94,6 +99,7 @@ Sistem, SQL üzerinde tam fonksiyonel çalışmakta ve tüm CRUD işlemlerini de
 **Ad Soyad:** Baha Lor
 
 **Proje:** Bitirme Projesi – SQL E-Ticaret Veritabanı  
+
 
 
 
