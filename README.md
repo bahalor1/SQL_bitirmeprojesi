@@ -92,7 +92,9 @@ Sistem, SQL üzerinde tam fonksiyonel çalışmakta ve tüm CRUD işlemlerini de
 
 ## Geliştirici
 **Ad Soyad:** Baha Lor
+
 **Proje:** Bitirme Projesi – SQL E-Ticaret Veritabanı  
+
 
 
 
