@@ -22,9 +22,6 @@ Amaç; müşteri, ürün, sipariş, kategori ve satıcı ilişkilerini doğru ş
 - Her ürün bir kategoriye ve bir satıcıya aittir.  
 - Sipariş-ürün ilişkisi **Siparis_Detay** tablosu üzerinden yönetilir.
 
-**ER Diyagramı:**  
-![ER Diagram](ER_Diagram.png)
-
 ---
 
 ## Veri Ekleme ve Güncelleme
@@ -93,3 +90,4 @@ Sistem, SQL üzerinde tam fonksiyonel çalışmakta ve tüm CRUD işlemlerini de
 ## Geliştirici
 **Ad Soyad:** Baha Lor
 **Proje:** Bitirme Projesi – SQL E-Ticaret Veritabanı  
+
